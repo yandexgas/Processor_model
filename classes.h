@@ -1,0 +1,30 @@
+#pragma once
+namespace lab4 {
+	class add;
+	class bin_cmd;
+	class command;
+	class control_device;
+	class data_memory;
+	class dec_op;
+	class declarator;
+	class div;
+	class eq;
+	class execution_device;
+	class Goto;
+	class If;
+	class if_op;
+	class inv;
+	class mod;
+	class more;
+	class mult;
+	class operation;
+	class print;
+	class processor;
+	class programs_memory;
+	class regist;
+	class registers_block;
+	class sravnit;
+	class sub;
+	class uno_cmd;
+	class del_op;
+}
